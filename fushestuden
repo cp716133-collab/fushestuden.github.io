@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fshati Fushë Studen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e9f5e9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2a702a;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #2a702a;
+        }
+        footer {
+            background-color: #2a702a;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mirë se vini në Fushë Studen</h1>
+    <p>Një vend plot tradita, natyrë dhe mikpritje</p>
+</header>
+
+<section>
+    <h2>Rreth Fshatit</h2>
+    <p>Fshati Fushë Studen ndodhet në një zonë të bukur malore, i rrethuar nga gjelbërimi dhe ajri i pastër. 
+       Banorët janë të njohur për mikpritjen dhe punën e tyre në bujqësi e blegtori.</p>
+
+    <h2>Historia</h2>
+    <p>Fshati ka një histori të vjetër dhe është i lidhur me traditat e zonës së Librazhdit. 
+       Përmes viteve ka ruajtur zakonet, këngët dhe veshjet tradicionale shqiptare.</p>
+
+    <h2>Galeri e Natyrës</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Albania_mountain_village.jpg/800px-Albania_mountain_village.jpg" alt="Fshat shqiptar" style="width:100%; border-radius: 8px;">
+</section>
+
+<footer>
+    <p>© 2024 Fshati Fushë Studen | Krijuar me dashuri për vendlindjen 💚</p>
+</footer>
+
+</body>
+</html>
